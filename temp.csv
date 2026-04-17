@@ -1,0 +1,102 @@
+Gender,Married,Education,Self_Employed,Credit_History,Loan_Status
+Male,No,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,No
+Male,Yes,Not Graduate,Yes,1,Yes
+Male,No,Not Graduate,No,1,Yes
+Female,No,Graduate,No,1,Yes
+Male,Yes,Graduate,No,0,No
+Female,Yes,Not Graduate,No,0,No
+Male,Yes,Graduate,No,1,Yes
+Male,No,Graduate,No,1,No
+Male,Yes,Graduate,No,1,Yes
+Female,No,Graduate,No,1,Yes
+Male,Yes,Not Graduate,No,1,Yes
+Male,No,Graduate,No,0,No
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,No
+Female,No,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Not Graduate,No,0,No
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,No
+Male,Yes,Not Graduate,No,1,Yes
+Female,Yes,Graduate,Yes,1,Yes
+Male,Yes,Not Graduate,No,1,No
+Male,Yes,Graduate,No,1,No
+Female,No,Graduate,No,1,No
+Male,Yes,Graduate,No,1,Yes
+Male,No,Graduate,No,1,Yes
+Male,Yes,Not Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,No,Graduate,No,1,Yes
+Female,No,Graduate,No,1,Yes
+Male,No,Graduate,No,1,No
+Male,No,Graduate,Yes,1,No
+Male,Yes,Graduate,No,1,Yes
+Male,No,Graduate,No,1,No
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,0,No
+Female,Yes,Graduate,No,1,Yes
+Male,No,Graduate,No,1,Yes
+Male,No,Not Graduate,No,1,Yes
+Male,No,Graduate,No,1,No
+Male,No,Graduate,No,1,Yes
+Male,Yes,Graduate,No,0,No
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Not Graduate,Yes,1,Yes
+Female,No,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Female,Yes,Not Graduate,Yes,0,No
+Female,No,Graduate,No,1,Yes
+Female,Yes,Not Graduate,No,1,Yes
+Female,No,Graduate,No,1,Yes
+Female,No,Graduate,No,1,No
+Male,Yes,Not Graduate,No,1,No
+Female,Yes,Graduate,Yes,0,No
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Not Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Not Graduate,Yes,1,No
+Male,Yes,Graduate,No,1,No
+Female,No,Graduate,No,0,No
+Male,Yes,Graduate,No,1,No
+Male,No,Not Graduate,No,0,No
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Not Graduate,Yes,1,Yes
+Female,No,Graduate,No,0,No
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,Yes,1,Yes
+Male,No,Graduate,No,1,Yes
+Male,Yes,Not Graduate,No,0,No
+Male,Yes,Graduate,Yes,1,Yes
+Male,No,Graduate,No,1,No
+Male,No,Graduate,No,1,No
+Male,Yes,Graduate,Yes,1,No
+Male,Yes,Graduate,No,0,No
+Male,Yes,Not Graduate,Yes,1,Yes
+Female,No,Graduate,No,1,Yes
+Male,Yes,Graduate,Yes,1,Yes
+Female,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,No,Graduate,No,1,Yes
+Male,Yes,Not Graduate,No,1,Yes
+Male,Yes,Graduate,No,0,No
+Male,No,Graduate,No,1,Yes
+Male,Yes,Graduate,Yes,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Male,Yes,Not Graduate,No,1,Yes
+Male,Yes,Not Graduate,No,1,Yes
+Male,No,Graduate,No,1,Yes
+Male,No,Graduate,No,0,No
+Female,Yes,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes
+Female,Yes,Not Graduate,No,1,Yes
+Male,No,Graduate,No,1,Yes
+Male,Yes,Graduate,No,1,Yes

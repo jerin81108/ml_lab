@@ -1,0 +1,5 @@
+text,sentiment
+"I absolutely love this new device, it is amazing!",positive
+"The customer service was terrible and unhelpful.",negative
+"It is an average product, nothing special.",neutral
+"I couldn`t be happier with my purchase.",positive
