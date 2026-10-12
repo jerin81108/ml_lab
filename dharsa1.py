@@ -24,4 +24,5 @@ plt.scatter(X,Y,color='blue',label='Actual')
 plt.plot(X,pred,color='red',label='Predicted')
 plt.xlabel('X'); plt.ylabel('Y')
 plt.title('Simple Linear Regression')
-plt.legend(); plt.grid(True); plt.show()
+plt.legend(); plt.grid(True);
+plt.show()
