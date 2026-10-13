@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Dataset
-X = np.array([1,2,3,4,5,6,7,8,9,10])
+X = np.array([1,2,3,4,5,6,7,8,9,10])https://github.com/repos
 Y = np.array([2,4,5,4,5,7,8,9,10,12])
 
 # Calculate coefficients
@@ -25,4 +25,4 @@ plt.plot(X,pred,color='red',label='Predicted')
 plt.xlabel('X'); plt.ylabel('Y')
 plt.title('Simple Linear Regression')
 plt.legend(); plt.grid(True);
-plt.show()
+plt.show();
