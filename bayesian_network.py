@@ -24,4 +24,6 @@ print(q)
 
 print('\n 2. Probability of HeartDisease given cholesterol=100')
 q = HeartDisease_infer.query(variables=['heartdisease'], evidence={'chol':100})
+ print("====================================")
 print(q)
+ print("====================================")
